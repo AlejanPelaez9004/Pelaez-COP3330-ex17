@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac05dfa9-3477-43c5-83bb-61c5e09eb0fd" name="Changes" comment="Completed!" />
+    <list default="true" id="ac05dfa9-3477-43c5-83bb-61c5e09eb0fd" name="Changes" comment="Completed!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pelaez-COP3330-ex01" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RunAnythingCache">
@@ -59,8 +63,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ex1" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex1" />
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.App" />
       <module name="Pelaez-COP3330-ex01" />
       <extension name="coverage">
         <pattern>
@@ -142,6 +146,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Completed!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pelaez_COP3330_ex17$App.ic" NAME="App Coverage Results" MODIFIED="1631074299351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pelaez.Alejandro.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Pelaez_COP3330_ex01$ex1.ic" NAME="ex1 Coverage Results" MODIFIED="1630033024334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Pelaez.Alejandro.*</FILTER>
     </SUITE>
